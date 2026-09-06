@@ -53,4 +53,3 @@ for turn in range(0,turns):
 
 print(f"Dog 1 - Wins: {dog1.win}, Losses: {dog1.loss}")
 print(f"Dog 2 - Wins: {dog2.win}, Losses: {dog2.loss}")
-print(f"Dog 2 - Wins: {dog2.win}, Losses: {dog2.loss}")
